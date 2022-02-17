@@ -1,0 +1,8 @@
+C:\Users\uknwr\repos\MoodAnalyser\bin\Debug\MoodAnalyser.exe.config
+C:\Users\uknwr\repos\MoodAnalyser\bin\Debug\MoodAnalyser.exe
+C:\Users\uknwr\repos\MoodAnalyser\bin\Debug\MoodAnalyser.pdb
+C:\Users\uknwr\repos\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.AssemblyReference.cache
+C:\Users\uknwr\repos\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.SuggestedBindingRedirects.cache
+C:\Users\uknwr\repos\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\uknwr\repos\MoodAnalyser\obj\Debug\MoodAnalyser.exe
+C:\Users\uknwr\repos\MoodAnalyser\obj\Debug\MoodAnalyser.pdb

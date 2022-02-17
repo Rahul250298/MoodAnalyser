@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1f1ff2a-b50f-4b73-8ed0-0986cd5a916c": {
+      "ProjectGuid": "f1f1ff2a-b50f-4b73-8ed0-0986cd5a916c",
+      "DisplayName": "MoodAnalyser",
+      "ColorIndex": 0
+    },
+    "79021abc-182e-402e-b0c8-8f3f5eaf1488": {
+      "ProjectGuid": "79021abc-182e-402e-b0c8-8f3f5eaf1488",
+      "DisplayName": "TestProject2",
+      "ColorIndex": 1
+    },
+    "14b9b642-a6d0-4664-9893-a72a33a68f29": {
+      "ProjectGuid": "14b9b642-a6d0-4664-9893-a72a33a68f29",
+      "DisplayName": "MoodAnalyzerTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
