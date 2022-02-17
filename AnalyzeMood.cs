@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace MoodAnalyser
 {
     public class AnalyzeMood
-    {
-        //variable
+    { //variable
         public string message;
         /// <summary>
         /// default contructor
@@ -52,3 +51,4 @@ namespace MoodAnalyser
         }
     }
 }
+
