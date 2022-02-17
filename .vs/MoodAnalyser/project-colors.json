@@ -15,6 +15,11 @@
       "ProjectGuid": "14b9b642-a6d0-4664-9893-a72a33a68f29",
       "DisplayName": "MoodAnalyzerTest",
       "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 3
