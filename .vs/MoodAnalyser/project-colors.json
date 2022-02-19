@@ -20,7 +20,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "c5d4ca36-43de-4583-a5e0-bea82216d4f7": {
+      "ProjectGuid": "c5d4ca36-43de-4583-a5e0-bea82216d4f7",
+      "DisplayName": "MoodAnalyzerTest",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
